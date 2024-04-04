@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "szoLQ/9p03/8HH5/qg3Yv+y4hM5ogHUR0KuVMb3JJDeydtLr4d7Cl2/zUShz8kOIg8TvWlv5JZAb92pfSs8AoA==",
+  "success": true,
+  "projectFilePath": "/Users/sofiacelestrin/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+  "expectedPackageFiles": [
+    "/Users/sofiacelestrin/.nuget/packages/amazon.lambda.core/2.2.0/amazon.lambda.core.2.2.0.nupkg.sha512",
+    "/Users/sofiacelestrin/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.4.1/amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
+    "/Users/sofiacelestrin/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/8.0.3/microsoft.netcore.app.runtime.linux-x64.8.0.3.nupkg.sha512",
+    "/Users/sofiacelestrin/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/8.0.3/microsoft.aspnetcore.app.runtime.linux-x64.8.0.3.nupkg.sha512",
+    "/Users/sofiacelestrin/.nuget/packages/microsoft.netcore.app.crossgen2.osx-arm64/8.0.3/microsoft.netcore.app.crossgen2.osx-arm64.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
